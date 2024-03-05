@@ -108,15 +108,19 @@ cAparch* myAparch = new cAparch(*this);
 		return 0;
 	}
 
+
 	uint cAparch::GetNParam(void) const
 	{
-		return 0;
+		return 1 + mvArch.GetSize() + mvGarch.GetSize() + mvGamma.GetSize();
 	}
+
+
 
 	uint cAparch::GetNLags(void) const
 	{
-		return 0;
+		return  MAX(mvArch.GetSize(), mvGarch.GetSize());
 	}
+
 
 	void cAparch::RegArchParamToVector(cDVector& theDestVect, uint theIndex)
 	{

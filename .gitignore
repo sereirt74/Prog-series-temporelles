@@ -1,0 +1,28 @@
+# Ignorer les fichiers d'objets compilés
+*.o
+*.obj
+
+# Ignorer les fichiers binaires compilés
+*.bin
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Ignorer les fichiers de bibliothèque compilés
+*.lib
+*.a
+
+# Ignorer les fichiers de symboles de débogage
+*.pdb
+*.dSYM
+
+# Ignorer les fichiers de logs de compilation
+*.log
+*.tlog
+
+# Ignorer les fichiers de dépendances générés par le compilateur
+*.d
+
+# Ignorer les fichiers générés par Visual Studio
+.vs/

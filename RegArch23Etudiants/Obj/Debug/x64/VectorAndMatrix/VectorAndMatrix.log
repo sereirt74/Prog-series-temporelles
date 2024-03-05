@@ -1,0 +1,8 @@
+﻿  StdAfxVectorAndMatrix.cpp
+  cGSLMatrix.cpp
+  cGSLVector.cpp
+C:\Users\localuser\source\repos\Prog serie temporelles\RegArch23Etudiants\VectorAndMatrix\cGSLVector.cpp(223,22): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\localuser\source\repos\Prog serie temporelles\RegArch23Etudiants\VectorAndMatrix\cGSLVector.cpp(254,23): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\localuser\source\repos\Prog serie temporelles\RegArch23Etudiants\VectorAndMatrix\cGSLVector.cpp(845,21): warning C4018: '<' : incompatibilité signed/unsigned
+  Génération de code en cours...
+  VectorAndMatrix.vcxproj -> C:\Users\localuser\source\repos\Prog serie temporelles\RegArch23Etudiants\Lib\Debug\x64\VectorAndMatrix.lib

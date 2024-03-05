@@ -1,0 +1,72 @@
+﻿  RegArchCompute.cpp
+  cAbstCondMean.cpp
+  cAbstCondVar.cpp
+  cAbstResiduals.cpp
+  cAparch.cpp
+  cAr.cpp
+  cArch.cpp
+  cArfima.cpp
+  cCondMean.cpp
+  cConst.cpp
+  cConstCondVar.cpp
+  cEgarch.cpp
+  cFigarch.cpp
+  cGarch.cpp
+  cGedResiduals.cpp
+  cGtarch.cpp
+  cLinReg.cpp
+  cLoggarch.cpp
+  cMa.cpp
+  cMixNormResiduals.cpp
+  cNagarch.cpp
+  Génération de code en cours...
+C:\Users\localuser\source\repos\Prog serie temporelles\RegArch23Etudiants\RegArchLib\cNagarch.cpp(93): warning C4172: retourne l'adresse d'une variable locale ou  temporaire
+C:\Users\localuser\source\repos\Prog serie temporelles\RegArch23Etudiants\RegArchLib\cNagarch.cpp(98): warning C4172: retourne l'adresse d'une variable locale ou  temporaire
+C:\Users\localuser\source\repos\Prog serie temporelles\RegArch23Etudiants\RegArchLib\cLoggarch.cpp(93): warning C4172: retourne l'adresse d'une variable locale ou  temporaire
+C:\Users\localuser\source\repos\Prog serie temporelles\RegArch23Etudiants\RegArchLib\cLoggarch.cpp(98): warning C4172: retourne l'adresse d'une variable locale ou  temporaire
+C:\Users\localuser\source\repos\Prog serie temporelles\RegArch23Etudiants\RegArchLib\cGtarch.cpp(93): warning C4172: retourne l'adresse d'une variable locale ou  temporaire
+C:\Users\localuser\source\repos\Prog serie temporelles\RegArch23Etudiants\RegArchLib\cGtarch.cpp(98): warning C4172: retourne l'adresse d'une variable locale ou  temporaire
+C:\Users\localuser\source\repos\Prog serie temporelles\RegArch23Etudiants\RegArchLib\cEgarch.cpp(89): warning C4172: retourne l'adresse d'une variable locale ou  temporaire
+C:\Users\localuser\source\repos\Prog serie temporelles\RegArch23Etudiants\RegArchLib\cEgarch.cpp(84): warning C4172: retourne l'adresse d'une variable locale ou  temporaire
+C:\Users\localuser\source\repos\Prog serie temporelles\RegArch23Etudiants\RegArchLib\cAparch.cpp(98): warning C4172: retourne l'adresse d'une variable locale ou  temporaire
+C:\Users\localuser\source\repos\Prog serie temporelles\RegArch23Etudiants\RegArchLib\cAparch.cpp(103): warning C4172: retourne l'adresse d'une variable locale ou  temporaire
+  Compilation en cours...
+  cNgarch.cpp
+  cNormResiduals.cpp
+  cNumericDerivative.cpp
+  cPolynome.cpp
+  cRegArchGradient.cpp
+  cRegArchHessien.cpp
+  cRegArchModel.cpp
+  cRegArchValue.cpp
+  cSqrgarch.cpp
+  cStdDevInMean.cpp
+  cStgarch.cpp
+  cStudentResiduals.cpp
+  cTabOfString.cpp
+  cTarch.cpp
+  cTsgarch.cpp
+  cUgarch.cpp
+  cVarInMean.cpp
+  DerivativeTools.cpp
+  GslAndNloptOptim.cpp
+  StdAfxRegArchLib.cpp
+  Génération de code en cours...
+C:\Users\localuser\source\repos\Prog serie temporelles\RegArch23Etudiants\RegArchLib\cVarInMean.cpp(70): warning C4172: retourne l'adresse d'une variable locale ou  temporaire
+C:\Users\localuser\source\repos\Prog serie temporelles\RegArch23Etudiants\RegArchLib\cVarInMean.cpp(83): warning C4172: retourne l'adresse d'une variable locale ou  temporaire
+C:\Users\localuser\source\repos\Prog serie temporelles\RegArch23Etudiants\RegArchLib\cUgarch.cpp(152): warning C4172: retourne l'adresse d'une variable locale ou  temporaire
+C:\Users\localuser\source\repos\Prog serie temporelles\RegArch23Etudiants\RegArchLib\cUgarch.cpp(146): warning C4172: retourne l'adresse d'une variable locale ou  temporaire
+C:\Users\localuser\source\repos\Prog serie temporelles\RegArch23Etudiants\RegArchLib\cTsgarch.cpp(94): warning C4172: retourne l'adresse d'une variable locale ou  temporaire
+C:\Users\localuser\source\repos\Prog serie temporelles\RegArch23Etudiants\RegArchLib\cTsgarch.cpp(99): warning C4172: retourne l'adresse d'une variable locale ou  temporaire
+C:\Users\localuser\source\repos\Prog serie temporelles\RegArch23Etudiants\RegArchLib\cStgarch.cpp(93): warning C4172: retourne l'adresse d'une variable locale ou  temporaire
+C:\Users\localuser\source\repos\Prog serie temporelles\RegArch23Etudiants\RegArchLib\cStgarch.cpp(98): warning C4172: retourne l'adresse d'une variable locale ou  temporaire
+C:\Users\localuser\source\repos\Prog serie temporelles\RegArch23Etudiants\RegArchLib\cStdDevInMean.cpp(69): warning C4172: retourne l'adresse d'une variable locale ou  temporaire
+C:\Users\localuser\source\repos\Prog serie temporelles\RegArch23Etudiants\RegArchLib\cStdDevInMean.cpp(82): warning C4172: retourne l'adresse d'une variable locale ou  temporaire
+C:\Users\localuser\source\repos\Prog serie temporelles\RegArch23Etudiants\RegArchLib\cSqrgarch.cpp(93): warning C4172: retourne l'adresse d'une variable locale ou  temporaire
+C:\Users\localuser\source\repos\Prog serie temporelles\RegArch23Etudiants\RegArchLib\cSqrgarch.cpp(98): warning C4172: retourne l'adresse d'une variable locale ou  temporaire
+C:\Users\localuser\source\repos\Prog serie temporelles\RegArch23Etudiants\RegArchLib\cNgarch.cpp(152): warning C4172: retourne l'adresse d'une variable locale ou  temporaire
+C:\Users\localuser\source\repos\Prog serie temporelles\RegArch23Etudiants\RegArchLib\cNgarch.cpp(147): warning C4172: retourne l'adresse d'une variable locale ou  temporaire
+  Compilation en cours...
+  SomeDistribution.cpp
+  Génération de code en cours...
+  RegArchLib.vcxproj -> C:\Users\localuser\source\repos\Prog serie temporelles\RegArch23Etudiants\Lib\Debug\x64\RegArchLib.lib
